@@ -1,0 +1,2 @@
+This repository contains the presentation for the talk I gave on 25/05/2012 at the WHYMCA Italian Mobile Developer Conference.
+For more info about the ideas behind my speech I wrote a post here: [http://titaniumninja.com/titanium-mobile-flexibility-vs-performance/](http://titaniumninja.com/titanium-mobile-flexibility-vs-performance/)
